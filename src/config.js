@@ -6,7 +6,7 @@ export const init = {
       },
       {
         name: 'InsertSort',
-        imgUrl: 'https://cdn-icons.flaticon.com/png/512/1052/premium/1052892.png?token=exp=1648132121~hmac=3aa34a7d024a2089856136122c76f4bd'
+        imgUrl: 'https://www.pngrepo.com/png/310106/512/text-change-next.png'
       },
       {
         name: 'SelectSort',
@@ -14,7 +14,7 @@ export const init = {
       },
       {
         name: 'MergeSort',
-        imgUrl: 'https://cdn-icons.flaticon.com/png/512/4333/premium/4333303.png?token=exp=1648132216~hmac=805d92b6422f3f6022ef9fd69eca01f8'
+        imgUrl: 'https://cdn-icons-png.flaticon.com/512/3580/3580192.png'
       },
       {
         name: 'QuickSort',
@@ -34,7 +34,7 @@ export const init = {
       },
       {
         name: 'CocktailShakerSort',
-        imgUrl: 'https://cdn-icons.flaticon.com/png/512/2007/premium/2007947.png?token=exp=1648132506~hmac=82a1ab9d86441be95d0a9185c160a3df'
+        imgUrl: 'https://cdn1.iconfinder.com/data/icons/bottles-glasses-and-cups-pt-1/100/023_-_shaker-512.png'
       },
      
   ],
